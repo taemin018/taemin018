@@ -1,6 +1,7 @@
 <!-- 상단 웨이브 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=280&section=header&text=TaeMin_Kim&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
+<h3 align="center">Hi! I'm TaeMin </h3>
 <!-- 연락처 아이콘 -->
 <p align="center">
   <!-- Gmail -->
@@ -12,6 +13,7 @@
   <a href="https://www.notion.so/265e57cce8cf80c1854ccbb71f10cb3c">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
+  <h4 align="center"> </h4>
 </p>
 
 
