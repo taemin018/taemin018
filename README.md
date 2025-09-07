@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=280&section=header&text=TaeMin&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=280&section=header&text=TaeMin_Kim&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <!-- Gradient Background with Wave -->
 <p align="center">
