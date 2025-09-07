@@ -15,9 +15,8 @@
     <!-- Wave 효과 -->
     <path d="M0,100 C300,180 900,20 1200,100 L1200,200 L0,200 Z" fill="white"/>
     <!-- 텍스트 -->
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="50" font-weight="bold" fill="white">
-      Tae_Min
-    </text>
+  <a href="jh940412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh940412@gmail.com)](mailto:jh940412@gmail.com)"/></a>&nbsp
+<a href="https://dev-hyun.notion.site/ac0eda182a24408994db0b343c353826?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
   </svg>
 </p>
 
