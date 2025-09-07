@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=TaeMin&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
-
 <h3 align="center">Hi! I'm Taemin </h3>
 <!-- Gradient Background with Wave -->
 <p align="center">
