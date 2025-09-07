@@ -16,7 +16,7 @@
     <path d="M0,100 C300,180 900,20 1200,100 L1200,200 L0,200 Z" fill="white"/>
     <!-- 텍스트 -->
     <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="50" font-weight="bold" fill="white">
-      TaeMin
+      Tae_Min
     </text>
   </svg>
 </p>
@@ -40,5 +40,5 @@
    
   
 <h2 align="center"> ✨My Github Stats✨ </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-hyun&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-hyun&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=taemin018&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin018&layout=compact"></p>
   
