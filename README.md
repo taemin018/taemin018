@@ -1,14 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=TaeMin&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">Hi! I'm Taemin </h3>
+<!-- Gradient Background with Wave -->
 <p align="center">
-  <a href="jh940412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtaemin254@gmail.com)](mailto:gtaemin254@gmail.com)"/></a>&nbsp
-<a href="https://dev-hyun.notion.site/ac0eda182a24408994db0b343c353826?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
-<h4 align="center"> </h4>
-<br>
+  <svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- 하늘색 그라데이션 -->
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#89f7fe; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#66a6ff; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <!-- 사각형 배경 -->
+    <rect width="1200" height="200" fill="url(#grad)" />
+    <!-- Wave 효과 -->
+    <path d="M0,100 C300,180 900,20 1200,100 L1200,200 L0,200 Z" fill="white"/>
+    <!-- 텍스트 -->
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="50" font-weight="bold" fill="white">
+      TaeMin
+    </text>
+  </svg>
+</p>
 
-<h2 align="center">🛠️Tech Stack🛠️</h2>
-<p align="center"> 
   
 | Back-End | Front-End | Database | IDE |
 | --- | --- | --- | --- |
