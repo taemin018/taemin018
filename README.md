@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi! I'm Taemin </h3>
 <p align="center">
-  <a href="jh940412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh940412@gmail.com)](mailto:jh940412@gmail.com)"/></a>&nbsp
+  <a href="jh940412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtaemin254@gmail.com)](mailto:gtaemin254@gmail.com)"/></a>&nbsp
 <a href="https://dev-hyun.notion.site/ac0eda182a24408994db0b343c353826?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 <h4 align="center"> </h4>
 <br>
