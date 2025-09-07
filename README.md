@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=280&section=header&text=TaeMin&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+
 <!-- Gradient Background with Wave -->
 <p align="center">
   <svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
