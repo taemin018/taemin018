@@ -1,4 +1,3 @@
-<h3 align="center">Hi! I'm Taemin </h3>
 <!-- Gradient Background with Wave -->
 <p align="center">
   <svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
@@ -19,6 +18,7 @@
     </text>
   </svg>
 </p>
+
 
   
 | Back-End | Front-End | Database | IDE |
