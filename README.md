@@ -1,31 +1,19 @@
+<!-- 상단 웨이브 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=280&section=header&text=TaeMin_Kim&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-<!-- Gradient Background with Wave -->
+<!-- 연락처 아이콘 -->
 <p align="center">
-  <svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- 하늘색 그라데이션 -->
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#89f7fe; stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#66a6ff; stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <!-- 사각형 배경 -->
-    <rect width="1200" height="200" fill="url(#grad)" />
-    <!-- Wave 효과 -->
-    <path d="M0,100 C300,180 900,20 1200,100 L1200,200 L0,200 Z" fill="white"/><p align="center">
-    <!-- Gmail -->
-    <a href="mailto:gtaemin254@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>&nbsp;
-  
-   <!-- Notion -->
+  <!-- Gmail -->
+  <a href="mailto:gtaemin254@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>&nbsp;
+
+  <!-- Notion -->
   <a href="https://www.notion.so/265e57cce8cf80c1854ccbb71f10cb3c">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
-&nbsp</p>
-  </svg>
 </p>
+
 
 
   
