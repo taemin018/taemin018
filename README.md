@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <h4 align="center"> </h4>
+  <br>
+
+  <h2 align="center">🛠️Tech Stack🛠️</h2>
+<p align="center"> 
 </p>
 
 
