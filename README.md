@@ -13,10 +13,17 @@
     <!-- 사각형 배경 -->
     <rect width="1200" height="200" fill="url(#grad)" />
     <!-- Wave 효과 -->
-    <path d="M0,100 C300,180 900,20 1200,100 L1200,200 L0,200 Z" fill="white"/>
-    <!-- 텍스트 -->
-    <a href="gtaemin254@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtaemin254@gmail.com)]  (mailto:gtaemin254@gmail.com)"/></a>&nbsp
-  <a href="https://www.notion.so/265e57cce8cf80c1854ccbb71f10cb3c"><img src="https://img.shields.io/badge/Notion-00000?style=round-  square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+    <path d="M0,100 C300,180 900,20 1200,100 L1200,200 L0,200 Z" fill="white"/><p align="center">
+  <!-- Gmail -->
+  <a href="mailto:gtaemin254@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>&nbsp;
+  
+  <!-- Notion -->
+  <a href="https://www.notion.so/265e57cce8cf80c1854ccbb71f10cb3c">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+&nbsp</p>
   </svg>
 </p>
 
