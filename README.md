@@ -42,16 +42,17 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-rickstaa.vercel.app/api?username=taemin018&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=555555" 
+    src="https://github-readme-stats.vercel.app/api?username=taemin018&show_icons=true&theme=default&title_color=0078ff&text_color=000000&icon_color=0078ff&border_color=DDDDDD" 
     alt="GitHub Stats"
     height="180em"
   />
   <img 
-    src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=taemin018&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=555555" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin018&layout=compact&theme=default&title_color=0078ff&text_color=000000&border_color=DDDDDD" 
     alt="Top Languages"
     height="180em"
   />
 </p>
+
 
 
 
