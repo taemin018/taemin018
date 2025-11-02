@@ -44,17 +44,15 @@
   <img 
     src="https://github-readme-stats-rickstaa.vercel.app/api?username=taemin018&show_icons=true&theme=default&title_color=1877F2&text_color=000000&icon_color=1877F2&bg_color=FFFFFF&border_color=D0D0D0"
     alt="GitHub Stats"
-    height="180em"
+    height="160em"
   />
-</p>
-
-<p align="center">
   <img 
     src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=taemin018&layout=compact&langs_count=4&hide=PLpgSQL,Rich%20Text%20Format&theme=default&title_color=1877F2&text_color=000000&bg_color=FFFFFF&border_color=D0D0D0"
     alt="Top Languages"
-    height="180em"
+    height="160em"
   />
 </p>
+
 
 
 
