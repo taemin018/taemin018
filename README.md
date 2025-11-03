@@ -37,6 +37,18 @@
 </div>
 
 ---
+<h2 align="center">🚀 Build & Deployment 🚀</h2>
+
+<p align="center">
+  <a href="https://github.com/taemin018/crew-station/actions/workflows/build.yml">
+    <img src="https://github.com/taemin018/crew-station/actions/workflows/build.yml/badge.svg" alt="Build Status"/>
+  </a>
+  <a href="https://github.com/taemin018/crew-station/actions/workflows/deploy.yml">
+    <img src="https://github.com/taemin018/crew-station/actions/workflows/deploy.yml/badge.svg" alt="Deploy Status"/>
+  </a>
+</p>
+
+
 
 <h2 align="center">✨ My GitHub Stats ✨</h2>
 
